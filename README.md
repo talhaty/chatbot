@@ -1,0 +1,4 @@
+# chatbot
+
+OPENAI_API_KEY=""
+ZAPIER_NLA_API_KEY=""
